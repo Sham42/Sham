@@ -1,2 +1,0 @@
-# Sham
-Public
